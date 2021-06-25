@@ -1,0 +1,178 @@
+{
+  "main": {
+    "name": "Harshit Aditya",
+    "occupation": "Web Developer",
+    "description": "A Computer Science enthusiast who is beginning his development journey.",
+    "image": "profilepic.jpg",
+    "bio": "Hi, I am Harshit Aditya. I am a first year student pursuing Computer Science Engineering from Sikkim Manipal Institue of Technology. I am a Computer Science enthusiast and currently working on full stack web development and also learning open source development.",
+    "contactmessage": "Get in touch with me :)",
+    "email": "harshitaditya27@gmail.com",
+    "phone": "+91 6299258xxx",
+    "address": {
+      "street": "Harmu Housing Colony",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "zip": "834002"
+    },
+    "website": "https://twitter.com/HarshitAditya1",
+    "resumedownload": "https://drive.google.com/file/d/1eGGMP3Oq86w-_9WYvlbRxk4RUuav3s8v/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCNnS0-eGKFHkPvMtZgS1GoA/featured",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/harshit.aditya.5/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/harshit-aditya-b67bb7205/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/harshitadityadecwloper/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/HarshitAditya27",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Sikkim Manipal Institute Of Technology",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "2024",
+        "description": "Learning Computer Science and Engineering"
+      },
+      {
+        "school": "Sapphire International School",
+        "degree": "Science",
+        "graduated": "August 2020",
+        "description": "This School is very memorable.I spent my entire 12 years in this school and made some good friends and have fun."
+      }
+    ],
+    "work": [
+      {
+        "company": "Mexili Winter Of Code",
+        "title": "Open Source Contributor",
+        "years": "Feburary 2021- Feburary 2021",
+        "description": "Did my first open-source contribution. From this organization, I started my open source journey.Contributed in two projects in Mexili Winter Of Code (MWoC)."
+      },
+      {
+        "company": "CodXCrypt",
+        "title": "Campus Ambassador",
+        "years": "March 2021 - Present",
+        "description": "Build the CodXCrypt community in my college.Active paticipant from CodXCrypt during Major League Hacking Local Hacking Day 2021."
+      },
+      {
+        "company": "Innovision",
+        "title": "Junior Executive",
+        "years": "Feburary 2021 - Present",
+        "description": "Created posts for Innovison Instagram Community."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "55%"
+      },
+      {
+        "name": "Java",
+        "level": "65%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "67%"
+      },
+      {
+        "name": "HTML",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "58%"
+      },
+      {
+        "name": "GitHub",
+        "level": "75%"
+      },
+      {
+        "name": "Node.js",
+        "level": "76%"
+      },
+      {
+        "name": "Express.js",
+        "level": "84%"
+      },
+      {
+        "name": "React.js",
+        "level": "40%"
+      },
+      {
+        "name": "C",
+        "level": "82%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Discord Clone (HTML+CSS)",
+        "category": "",
+        "image": "discord.jpeg",
+        "url": "https://harshitaditya27.github.io/Discord-Clone-using-HTML-and-CSS/"
+      },
+      {
+        "title": "Guess My Number (JS)",
+        "category": "",
+        "image": "gmn.png",
+        "url": "https://harshitaditya27.github.io/Guess-My-Number/"
+      },
+      {
+        "title": "DualSense(HTML+CSS)",
+        "category": "",
+        "image": "PS5.png",
+        "url": "https://harshitaditya27.github.io/DualSense/"
+      },
+      {
+        "title": "Pizza Site(HTML+CSS)",
+        "category": "",
+        "image": "pizza.png",
+        "url": "https://harshitaditya27.github.io/Pizza-Site/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Harshit is an amazing person.We learned a lot of things together. He skills in frontend is awersome !!.Highly recommend Harshit.",
+        "user": "Ritesh Kumar"
+      },
+      {
+        "text": "Harshit is very kind person. He is always ready to help. We worked together in many projects.",
+        "user": "Rounak Sinha"
+      },
+      {
+        "text": "I and Harshit worked together for more than 11 Years. He is very supportive and helping. He has helped me in various projects and we learned things together!.",
+        "user": "Suyash Mohanty"
+      },
+      {
+        "text": "Harshit is a awersome person. He has guided me in various field in tech ....  I would always recommend wheneve I face any issue releated to tech field.",
+        "user": "Vedant Yash"
+      }
+    ]
+  }
+}
